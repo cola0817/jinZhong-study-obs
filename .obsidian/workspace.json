@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "8c6cba4971b91263",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fc632ab33a38e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d63657c7f3b5dfd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/2023-08-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7b716ff8f51b71a",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fc463a9bd82629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a867cc55b681af3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09cb4cf6c4df3c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d0705250efd27a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "122013d887dac733",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6830efdcc70ff05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc834b1fe2118303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO/2023-08-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5922fde8133c3a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO/2023-08-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5150254f75d88d5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66f3c01280f0a661",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO/2023-08-17.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d63657c7f3b5dfd8",
+  "lastOpenFiles": [
+    "TODO/2023-08-17.md",
+    "学习/学校课程",
+    "学习/其它",
+    "未命名",
+    "学习",
+    "TODO",
+    "模板/TODO_Template.md",
+    "模板/README_Template.md",
+    "模板/MD_Template.md",
+    "模板/Friend_Template.md",
+    "模板/DayLog_Template.md",
+    "模板"
+  ]
+}
